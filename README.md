@@ -1,2 +1,2 @@
 # mocks
-Mock data for FakeAPI
+Mocked data for FakeAPI
